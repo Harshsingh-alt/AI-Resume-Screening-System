@@ -22,3 +22,6 @@ streamlit run app.py
 
 ## Author
 Harsh Singh
+
+## Live Demo
+https://ai-resume-screening-system-fphszbjhqrhu4xbue7lkwp.streamlit.app/
